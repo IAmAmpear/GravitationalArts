@@ -206,6 +206,10 @@ footer {
     width: 50%;
     margin-left: 50%;
   }
+  .portfolio-content button {
+    background-color: #fff;
+    color: black;
+  }
   .carousel-title {
     padding-top: 8%;
   }
